@@ -13,8 +13,5 @@
   },
   "autoload": {
     "classmap": ["src"]
-  },
-  "dependencies": {
-    
   }
 }
