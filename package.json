@@ -1,0 +1,20 @@
+{
+  "name": "MikhailShapshay/random-files-generator",
+  "version": "1.0.0",
+  "description": "Random files generator",
+  "authors": [
+    {
+      "name": "Mikhail Shapshay",
+      "email": "skiv.weber@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.3.0"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  },
+  "dependencies": {
+    
+  }
+}
